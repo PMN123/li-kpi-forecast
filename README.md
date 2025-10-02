@@ -1,2 +1,2 @@
-# rivian-kpi-forecast
-Rivian deliveries forecast with ML and GenAI sentiment features. Public data only.
+# Rivian KPI Forecast
+Forecasting Rivian deliveries using ML + GenAI features.
